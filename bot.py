@@ -53,6 +53,8 @@ while True:
       sendmess2(142,"++++++ [kotelnikov|Гейкакойта]")
       time.sleep(2)
       sendmess2(142,"++++++ [youngraper|РеперКрутой]")
+      time.sleep(2)
+      sendmess2(142,"++++++ [kefir4ik11|Кэфир]")
       print("done")
       time.sleep(86400)
     except Exception as error:
