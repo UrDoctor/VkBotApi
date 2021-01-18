@@ -36,9 +36,10 @@ def deadcode():
 	sendmess2(142,"++++++ [fackk_yoou|Назарчик]")
 	sendmess2(142,"++++++ [cuhan|Чечен]")
 	sendmess2(142,"++++++ [andrey_1sever|Андрейка]")
-	time.sleep(86400)
+	
 while True:
     try:
       deadcode()
+      time.sleep(86400)
     except Exception as error:
         print(error)
