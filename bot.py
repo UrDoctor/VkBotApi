@@ -31,11 +31,12 @@ def deadcode():
 	sendmess2(142,"++++++ [matveyio|Мотвей]")
 	sendmess2(142,"++++++ [anechka_carter|Анечка]")
 	sendmess2(142,"++++++ [tulskiy71ru|никитка]")
-	sendmess2(142,"++++++ [firraa|Настя]")
+	sendmess2(142,"++++++ [firraa|Настюшка]")
 	sendmess2(142,"++++++ [11denis11|Дениска]")
 	sendmess2(142,"++++++ [fackk_yoou|Назарчик]")
 	sendmess2(142,"++++++ [cuhan|Чечен]")
 	sendmess2(142,"++++++ [andrey_1sever|Андрейка]")
+	sendmess2(142,"++++++ [kotelnikov|Гейкакойта]")
 	
 while True:
     try:
